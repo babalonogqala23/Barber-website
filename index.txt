@@ -5,13 +5,11 @@ This is a barber html template made by codewithsadee
 
 #---------- HEADER ----------#
 
-<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-Call Us : 
-012 (345) 67 895
 
-<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-Opening Hour :
-Sunday - Friday, 08 am - 09 pm
+
+
+
+
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
